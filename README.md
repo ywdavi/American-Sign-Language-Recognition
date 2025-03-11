@@ -28,7 +28,7 @@ SIGN4ALL-dashboard/
 │   │   └── 280000_parole_italiane.txt  
 │   └── models/  
 │       ├── YOLO.pt  
-│       ├── kenLM_eng.binary  
+│       ├── kenLM_eng.binary  (KenLM models are missing in this repository)
 │       ├── kenLM_ita.bin  
 │       └── kenLM_es.binary  
 │  
