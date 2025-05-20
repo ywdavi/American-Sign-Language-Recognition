@@ -2,6 +2,10 @@
 
 430 million people, over 5% of the world's population, had disabling hearing loss in 2023. The World Health Organization estimates that by 2050, nearly 2.5 billion people will have some degree of hearing loss. People who are deaf or hard of hearing often face social exclusion due to communication challenges. To address this issue, we developed a web app that recognizes and translates ASL gestures in real-time using image classification techniques. Our app supports three different languages, suggests words through a language model, and converts recognized text into speech. This tool aims to help ASL users communicate more easily, promoting greater accessibility and social integration.
 
+## Demo
+
+https://github.com/user-attachments/assets/d3531e78-f5a3-4c20-9653-4d599bdf3d61
+
 ## ASL_YOLO_training.ipynb 
 This notebook is used to load and preprocess the original _ASL Alphabet dataset_ and train a YOLO model for classification. The notebook was run on the Kaggle framework to use the GPU accelerator.
 
